@@ -131,7 +131,7 @@ fixed | 뷰포트 | X
 title="GOOGLE로 이동!"
 target="_blank">GOOGLE</a>
 
-<img width="250" src="https://img.notionusercontent.com/s3/prod-files-secure%2F401451f4-9679-4aa7-86d7-53709854774e%2F58169365-6657-439a-940b-dd13b2655c14%2F%ED%95%98%EB%A3%A8%EB%B2%9413.png/size/w=250?exp=1747103486&sig=wI2wnqBSS0KUDfvZITTQLScN_nTKkAkuyQs6TRzw6CI&id=17a9e4fb-7701-8021-973f-d803b78c8eee&table=block"
+<img width="250" src="https://www.notion.so/image/attachment%3A467dd3b9-77c7-4943-86a6-a37e9d3003b7%3A%ED%95%98%EB%A3%A8%EB%B2%9418.png?table=block&id=1ce9e4fb-7701-8091-8fb1-ed92603778fb&spaceId=401451f4-9679-4aa7-86d7-53709854774e&width=250&userId=173d872b-594c-81dd-a2b2-0002c5e57471&cache=v2"
 alt="notion: Forest027" />
 
 # 수평선(Horizontal Rule)
