@@ -62,9 +62,9 @@ target="_blank">NAVER</a>
 
 ![]()
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![haru-study](https://forest027.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F401451f4-9679-4aa7-86d7-53709854774e%2Fffd4ddcd-ddfb-438c-b7f6-27a223869204%2F%25ED%2595%2598%25EB%25A3%25A8%25EB%25B2%259425_sizeUp.png?table=block&id=1739e4fb-7701-8029-9b31-fd99c708d77e&spaceId=401451f4-9679-4aa7-86d7-53709854774e&width=250&userId=&cache=v2)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![bum-lucky](https://img.notionusercontent.com/s3/prod-files-secure%2F401451f4-9679-4aa7-86d7-53709854774e%2F58169365-6657-439a-940b-dd13b2655c14%2F%ED%95%98%EB%A3%A8%EB%B2%9413.png/size/w=250?exp=1747103486&sig=wI2wnqBSS0KUDfvZITTQLScN_nTKkAkuyQs6TRzw6CI&id=17a9e4fb-7701-8021-973f-d803b78c8eee&table=block)
 
 # 인용문(BlockQuote)
 
@@ -129,12 +129,12 @@ fixed | 뷰포트 | X
 동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
 하느님이 보우하사 우리나라 만세
 
-<a href="https://naver.com"
-title="NAVER로 이동!"
-target="_blank">NAVER</a>
+<a href="https://google.com"
+title="GOOGLE로 이동!"
+target="_blank">GOOGLE</a>
 
-<img width="70" src="https://heropy.blog/css/images/logo.png"
-alt="HEROPY" />
+<img width="70" src="(https://www.notion.so/forest027/UIUX-1739e4fb770180299b31fd99c708d77e?pvs=4)"
+alt="notion: Forest027" />
 
 # 수평선(Horizontal Rule)
 
