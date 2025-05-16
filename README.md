@@ -127,9 +127,9 @@ fixed | 뷰포트 | X
 there is always <span style="text-decoration: underline;">light</span><br/>
 after the dark
 
-<a href="https://google.com"
-title="GOOGLE로 이동!"
-target="_blank">GOOGLE</a>
+<a href="https://forest027.notion.site/J-s-Portfolio-1ce9e4fb770180918fb1ed92603778fb"
+title="portfolio로 이동!"
+target="_blank">J's portfolio</a>
 
 <img width="250" src="https://github.com/user-attachments/assets/da2578ec-2d2a-4602-80b7-1c780dbda361" alt="notion: Forest027" />
 
