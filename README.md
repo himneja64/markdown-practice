@@ -9,15 +9,15 @@
 
 # 문장(paragraph)
 
-동해물과 백두산이 마르고 닳도록
-하느님이 보우하사 우리나라 만세
+마크다운 연습을 하고 있습니다.  
+모든 글이 한 줄로 쓰여지는 듯 하지만 띄어쓰기 두 번이면  
+한 줄 내려와서 쓸 수 있습니다.
 
 # 줄바꿈(Line Breaks)
 
-동해물과 백두산이 마르고 닳도록  
-하느님이 보우하사 우리나라 만세  
-무궁화 삼천리 화려 강산<br/>
-대한 사람 대한으로 길이 보전하세
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.  
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br/>
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 # 강조(Emphasis)
 
@@ -107,8 +107,8 @@ $ git commit -m 'Study Markdown'
 ```
 
 ```plaintext
-동해물과 백두산이 마르고 닳도록  
-하느님이 보우하사 우리나라 만세
+연습용 글을 작성하고 있어요.
+모든 사람이 건강하고 행복했으면 좋겠네요.
 ```
 
 # 표(Table)
@@ -124,8 +124,8 @@ fixed | 뷰포트 | X
 
 # 원시 HTML(Raw HTML)
 
-동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
-하느님이 보우하사 우리나라 만세
+there is always <span style="text-decoration: underline;">light</span><br/>
+after the dark
 
 <a href="https://google.com"
 title="GOOGLE로 이동!"
