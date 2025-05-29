@@ -1,5 +1,3 @@
-<video src="https://github.com/user-attachments/assets/5f57b516-bf22-4548-a96e-481a04de8248" ></video>
-
 # 제목(Header)
 
 # 제목 1
